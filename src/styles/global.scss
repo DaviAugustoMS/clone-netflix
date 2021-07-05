@@ -1,0 +1,23 @@
+:root {
+  --primary: #e50914;
+  --secundary: #141414;
+  --white: #ffffff;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  background-color: var(--secundary);
+  font-family: "Times New Roman", Times, serif;
+  overflow-x: hidden;
+}
+
+a {
+  color: var(--white);
+}

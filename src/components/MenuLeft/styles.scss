@@ -1,0 +1,12 @@
+.menu-left {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 350px;
+  padding-left: 30px;
+
+  a {
+    text-decoration: none;
+  }
+}
